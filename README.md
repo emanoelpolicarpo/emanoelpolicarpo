@@ -22,4 +22,9 @@ Sou estudante de Desenvolvimento Web e vivo no Discord.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="35" height="35"/>&nbsp;
 </div>
 
+
 ---
+<div align = "left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelpolicarpo&show_icons=true&theme=discord_old_blurple&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=emanoelpolicarpo&show_icons=true&show_icons=true&theme=discord_old_blurple&count_private=true"/>
+</div>
