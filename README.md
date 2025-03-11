@@ -1,7 +1,7 @@
 <img src = "banner.gif" width = "325px" align = right>
 
 # 😉 Olá, bem-vindo(a) ao meu GitHub!
-Me chamo Emanoel, tenho 23 anos e ando sempre à procura do aprimoramento pessoal e profissional, amo muito tecnologia e o que ela nos proporciona.
+Me chamo Emanoel, tenho 24 anos e ando sempre à procura do aprimoramento pessoal e profissional, amo muito tecnologia e o que ela nos proporciona.
 
 <div id="badges">
   <a href = "mailto:emanuelpolicarpo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -11,13 +11,14 @@ Me chamo Emanoel, tenho 23 anos e ando sempre à procura do aprimoramento pessoa
   </a>
 </div>
 
-- 💻 Em breve iniciarei Análise e Desenvolvimento de Sistemas.
-- 👩‍💻 Aprendendo algo novo sobre Java
+- 💻 Baicharel em Cicências da Computação.
+- 👩‍💻 Aprendendo algo novo sobre JavaScript.
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="35" height="35"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJs" alt="NodeJs" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="35" height="35"/>&nbsp;
 </div>
 
 
