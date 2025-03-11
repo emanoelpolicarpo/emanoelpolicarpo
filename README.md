@@ -11,7 +11,7 @@ Me chamo Emanoel, tenho 24 anos e ando sempre à procura do aprimoramento pessoa
   </a>
 </div>
 
-- 💻 Baicharel em Cicências da Computação.
+- 💻 Graduando em Cicências da Computação.
 - 👩‍💻 Aprendendo algo novo sobre JavaScript.
 
 <div>
